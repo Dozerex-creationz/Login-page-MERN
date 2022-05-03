@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server side scripts of internshiup task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "",
+    "mongoose": "",
+    "body-parser": "",
+    "dotenv": ""
+  },
+  "author": "dozerex",
+  "license": "MIT"
+}
